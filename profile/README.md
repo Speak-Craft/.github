@@ -27,34 +27,31 @@
 
 | Member           | IT Number  | Sub-Objective                                        | Tasks                                                                             |
 | ---------------- | ---------- | ---------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Madhushan W.C.P  | IT21810732 | Letters Identification                               | Convert letters to/from signing symbols. Develop games for letter identification. |
-| Boralugoda D.S   | IT21279348 | Numbers Identification                               | Convert numbers to/from signing symbols. Develop games for number identification. |
-| Vishara D.D.S    | IT21822544 | Object and Environment Identification                | Create games for recognizing shapes, animals, and objects.                        |
-| Perera M.P.A.M   | IT21808784 | Interactive Drawing Activities for Primary schoolers | Practice drawing symbols and objects to improve memory retention and recognition. |
+| Madhushan W.C.P  | IT21810732 | Filler Words and Time Management                     | Detects and highlights the usage of filler words during the presentation.         |
+| Boralugoda D.S   | IT21279348 | Pitch and Tone Modulation Analysis                   | Analyze variations in pitch and tone throughout the speech.                       |
+| Vishara D.D.S    | IT21822544 | Object and Environment Identification                | Tracks the user’s speaking rate , pauses and breathing, pacing curve.             |
+| Perera M.P.A.M   | IT21808784 | Pace Management                                      | Analyze facial expressions during presentations.                                  |
 
 ## Features
 
-### 1. **Interactive Learning Modules**
+## 1. Facial Expression Analysis:
+a. Activities: Evaluates expressions like smiling, frowning, or neutral demeanor
+during presentations.
+b. Feedback: Suggests improvements such as “Increase eye contact” or “Smile
+during key moments” to promote engagement.
 
-- **Games and Activities**: Teach sign language symbols for letters, numbers, and objects.
-- **Engagement**: Fun and interactive methods to reinforce learning.
+## 2. Pitch and Tone Modulation Analysis:
+a. Activities: Analyzes vocal pitch and tone to identify monotony or unclear delivery.
+b. Feedback: Highlights areas needing more variation and suggests tonal improvements for effective delivery.
 
-### 2. **Object and Environment Identification**
+## 3. Filler Words and Time Management:
+a. Activities: Tracks the user’s speaking rate and provides insights to manage pacing effectively.
+b. Feedback: Alerts users about slow or fast delivery and provides strategies for balanced pacing.
 
-- Activities to help students identify objects and elements in the environment.
-- Expands vocabulary and comprehension using sign language.
+## 4.Pace Management:
+a. Activities: Tracks the user’s speaking rate, pauses and breathing and provides insights to manage pacing effectively.
+b. Feedback: Alerts users about slow or fast delivery and provides strategies for balanced pacing.
 
-### 3. **Sign Language Drawing Practice**
-
-- Drawing tools for practicing symbols, letters, and numbers.
-- Enhances memory retention and recognition through hands-on activities.
-
-### 4. **Bilingual Support**
-
-- Supports Sinhala and English languages.
-- Promotes bilingual communication skills and inclusively.
-
----
 
 ## Objectives
 
@@ -70,12 +67,6 @@ The primary objective of the AI-Powered Virtual Trainer for Presentation Skills 
 - **Perera M.P.A.M.**: Ensures that facial expressions effectively and complement the content.
 
 ---
-
-## Novelty and Impact
-
-- **First bilingual Sinhala-English sign language learning tool** tailored for primary learners.
-- **Interactive and gamified approach** to learning.
-- Focused on **inclusivity** and **bilingual communication** for diverse classrooms.
 
 ## Technology Stack
 
@@ -96,6 +87,8 @@ The primary objective of the AI-Powered Virtual Trainer for Presentation Skills 
 - TensorFlow.js
 - OpenCV.js
 - Keras
+- Wispher
+- Mccs
 
 ### Tools
 
@@ -109,6 +102,27 @@ The primary objective of the AI-Powered Virtual Trainer for Presentation Skills 
 
 ## References
 
-- Perera, L., & Fernando, S. (2018). _The Challenges of Learning Sign Language in Multilingual Societies_.
-- Kumarasinghe, K. (2020). _Bridging the Gap: Sign Language Accessibility in Sri Lanka_.
-- Smith, J. A., & Anderson, C. (2019). _The Role of Technology in Sign Language Learning_.
+## 1. Anderson, C., & Anderson, T. (2016). TED Talks: The Official TED Guide to Public Speaking. Houghton Mifflin Harcourt.
+a. Discusses the importance of clear communication and techniques for effective presentations.
+
+## 2. Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
+a. Provides foundational concepts in machine learning relevant to speech and facial expression analysis.
+
+## 3. Boersma, P., & Weenink, D. (2001). Praat: Doing Phonetics by Computer. [Online].
+Available at: https://www.fon.hum.uva.nl/praat/
+a. A tool for analyzing and manipulating speech used in pitch and tone analysis.
+
+## 4. Chollet, F. (2017). Deep Learning with Python. Manning Publications.
+a. Covers deep learning techniques applicable to facial expression recognition and NLP.
+
+## 5. Kapoor, S., & Picard, R. W. (2005). Multimodal affect recognition in learning environments. Proceedings of the 13th Annual ACM International Conference on Multimedia, 677-682.
+a. Explores the integration of affective computing and multimodal analysis in user training.
+
+## 6. McNeill, D. (2005). Gesture and thought. University of Chicago Press.
+a. Provides insights into the importance of non-verbal communication, relevant for analyzing filler words and body language.
+
+## 7. Microsoft Azure. (2023). Kinect SDK Documentation. [Online]. Available at: https://learn.microsoft.com/en-us/azure/kinect-dk/
+a. Documentation for body tracking and gesture recognition tools applicable to real-time feedback systems.
+
+## 8. Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). Attention is all you need. Advances in Neural Information Processing Systems, 30.
+a. Introduces transformer models, which are critical for NLP tasks like filler word detection and speech analysis.
