@@ -1,4 +1,4 @@
-![diagram-export-1-27-2025-12_57_47-AM](https://github.com/user-attachments/assets/5f512d67-8a98-4d07-afec-990df362f30b)# AI-Powered Virtual Trainer for Presentation Skills Web Application
+# AI-Powered Virtual Trainer for Presentation Skills Web Application
 
 ## Introduction
 
