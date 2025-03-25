@@ -11,26 +11,26 @@
 
 ## Project & Repositories
 
-- [Project](https://github.com/Arutha-Project)
-- [Model Repository](https://github.com/Arutha-Project/Aurtha-Modal)
-- [Backend Repository](https://github.com/Arutha-Project/Arutha-Backend)
-- [Frontend Repository](https://github.com/Arutha-Project/Arutha-Frontend)
+- [Project](https://github.com/Speak-Craft)
+- [Model Repository](https://github.com/Speak-Craft/modal)
+- [Backend Repository](https://github.com/Speak-Craft/backend)
+- [Frontend Repository](https://github.com/Speak-Craft/frontend)
 
 ---
 
 ## Supervisor
 
-- **Supervisor**: [Ms. Wishalya Tissera](https://www.linkedin.com/in/wishalya-tissera/)
-- **Co-Supervisor**: [Ms. Shalini Rupasinghe](https://www.linkedin.com/in/shalini-rupasinghe/)
+- **Supervisor**: [Dr. Samantha Rajapaksha](https://www.linkedin.com/in/samantha-rajapaksha-528657b/)
+- **Co-Supervisor**: [Mr. Samadhi Rathnayake](https://www.linkedin.com/in/samadhi-chathuranga-rathnayake/)
 
 ## Team Members
 
 | Member           | IT Number  | Sub-Objective                                        | Tasks                                                                             |
 | ---------------- | ---------- | ---------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Kumara H.M.I.M   | IT21183904 | Letters Identification                               | Convert letters to/from signing symbols. Develop games for letter identification. |
-| Bandara J.M.O.N  | IT20655648 | Numbers Identification                               | Convert numbers to/from signing symbols. Develop games for number identification. |
-| Kalpage T.L.     | IT21261350 | Object and Environment Identification                | Create games for recognizing shapes, animals, and objects.                        |
-| Gangabadage U.D. | IT21157400 | Interactive Drawing Activities for Primary schoolers | Practice drawing symbols and objects to improve memory retention and recognition. |
+| Madhushan W.C.P  | IT21810732 | Letters Identification                               | Convert letters to/from signing symbols. Develop games for letter identification. |
+| Boralugoda D.S   | IT21279348 | Numbers Identification                               | Convert numbers to/from signing symbols. Develop games for number identification. |
+| Vishara D.D.S    | IT21822544 | Object and Environment Identification                | Create games for recognizing shapes, animals, and objects.                        |
+| Perera M.P.A.M   | IT21808784 | Interactive Drawing Activities for Primary schoolers | Practice drawing symbols and objects to improve memory retention and recognition. |
 
 ## Features
 
@@ -64,10 +64,10 @@ To provide a comprehensive, engaging, and interactive platform for learning sign
 
 ### Sub-Objectives
 
-- **Kumara H.M.I.M**: Develop games for identifying letters in Sinhala and English.
-- **Bandara J.M.O.N**: Create number recognition and related activities.
-- **Kalpage T.L.**: Design games for identifying objects and environmental elements.
-- **Gangabadage U.D.**: Develop interactive drawing tools for practicing symbols, letters, and numbers.
+- **Madhushan W.C.P**: Develop games for identifying letters in Sinhala and English.
+- **Boralugoda D.S.**: Create number recognition and related activities.
+- **Vishara D.D.S.**: Design games for identifying objects and environmental elements.
+- **Perera M.P.A.M.**: Develop interactive drawing tools for practicing symbols, letters, and numbers.
 
 ---
 
@@ -81,7 +81,7 @@ To provide a comprehensive, engaging, and interactive platform for learning sign
 
 ### Programming Languages
 
-- **Frontend**: TypeScript
+- **Frontend**: React.js
 - **Backend**: Java
 - **Machine Learning**: Python
 - **Database**: PostgreSQL
