@@ -60,14 +60,14 @@
 
 ### Main Objective
 
-To provide a comprehensive, engaging, and interactive platform for learning sign language, with a focus on bilingual (Sinhala and English) education.
+The primary objective of the AI-Powered Virtual Trainer for Presentation Skills is to provide an intelligent, immersive, and personalized platform that enhances both verbal and non - verbal communication skills. By leveraging AI and advanced technologies. The ultimate goal is to empower users with the tools and insights needed to become compelling speakers who can effectively captivate and influence their audiences.
 
 ### Sub-Objectives
 
-- **Madhushan W.C.P**: Develop games for identifying letters in Sinhala and English.
-- **Boralugoda D.S.**: Create number recognition and related activities.
-- **Vishara D.D.S.**: Design games for identifying objects and environmental elements.
-- **Perera M.P.A.M.**: Develop interactive drawing tools for practicing symbols, letters, and numbers.
+- **Madhushan W.C.P**: Develop a gamification part for filler word and Time management.
+- **Boralugoda D.S.**: To enable presenters to effectively use pitch and tone modulation, ensuring their delivery is engaging, emotionally resonant, and aligned with the content of their presentation..
+- **Vishara D.D.S.**: Develop a gamification part for Pace Management.
+- **Perera M.P.A.M.**: Ensures that facial expressions effectively and complement the content.
 
 ---
 
