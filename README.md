@@ -1,8 +1,8 @@
-# Sign Language Learning Application
+# AI-Powered Virtual Trainer for Presentation Skills Web Application
 
 ## Introduction
 
-The **“අරුත” application** is a unique tool designed to enhance communication skills, particularly for users with hearing impairments. It supports both Sinhala and English, offering four primary functions: **sign symbol identification, number identification, object identification, and interactive drawing activities.** The application requires a large collection of English and Sinhala sign language motions, and collecting and analyzing user interactions will help maintain its functionality and user-friendliness, better tailoring its actions and content to the target audience.
+**Speakraft** is an innovative platform designed to help users master their presentation skills and build confidence. The platform focuses on enhancing voice modulation, facial expressions, and hand gestures. Key features include tools for time management, overcoming mid-presentation pauses, reducing filler words, improving pronunciation, pitch, and tone, as well as refining content. **Speakraft** also offers personalized tools to improve facial and hand movements, along with a detailed post-analysis and overall performance score to help users track and improve their progress effectively.
 
 ## Architecture Diagram
 ![Architecture Diagram](https://github.com/user-attachments/assets/ec940166-6368-4536-a73e-24cf8a5c9234)
