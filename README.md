@@ -1,11 +1,11 @@
-# AI-Powered Virtual Trainer for Presentation Skills Web Application
+![diagram-export-1-27-2025-12_57_47-AM](https://github.com/user-attachments/assets/5f512d67-8a98-4d07-afec-990df362f30b)# AI-Powered Virtual Trainer for Presentation Skills Web Application
 
 ## Introduction
 
 **Speakraft** is an innovative platform designed to help users master their presentation skills and build confidence. The platform focuses on enhancing voice modulation, facial expressions, and hand gestures. Key features include tools for time management, overcoming mid-presentation pauses, reducing filler words, improving pronunciation, pitch, and tone, as well as refining content. **Speakraft** also offers personalized tools to improve facial and hand movements, along with a detailed post-analysis and overall performance score to help users track and improve their progress effectively.
 
 ## Architecture Diagram
-![Architecture Diagram](https://github.com/user-attachments/assets/ec940166-6368-4536-a73e-24cf8a5c9234)
+![Architecture Diagram](https://github.com/user-attachments/assets/8ebc8585-01e9-43e7-980f-7ac3097c5694)
 
 
 
