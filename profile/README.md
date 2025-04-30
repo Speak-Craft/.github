@@ -5,8 +5,7 @@
 **Speakraft** is an innovative platform designed to help users master their presentation skills and build confidence. The platform focuses on enhancing voice modulation, facial expressions, and hand gestures. Key features include tools for time management, overcoming mid-presentation pauses, reducing filler words, improving pronunciation, pitch, and tone, as well as refining content. **Speakraft** also offers personalized tools to improve facial and hand movements, along with a detailed post-analysis and overall performance score to help users track and improve their progress effectively.
 
 ## Architecture Diagram
-![Architecture Diagram](https://github.com/user-attachments/assets/8ebc8585-01e9-43e7-980f-7ac3097c5694)
-
+![Architecture Diagram](https://github.com/user-attachments/assets/9e9ca7e4-de6c-46ce-9cf5-000cad7b148c)
 
 
 ## Project & Repositories
