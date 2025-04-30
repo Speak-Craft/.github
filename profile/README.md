@@ -28,7 +28,7 @@
 | ---------------- | ---------- | ---------------------------------------------------- | --------------------------------------------------------------------------------- |
 | Madhushan W.C.P  | IT21810732 | Filler Words and Time Management                     | Detects and highlights the usage of filler words during the presentation.         |
 | Boralugoda D.S   | IT21279348 | Pitch and Tone Modulation Analysis                   | Analyze variations in pitch and tone throughout the speech.                       |
-| Vishara D.D.S    | IT21822544 | Object and Environment Identification                | Tracks the user’s speaking rate , pauses and breathing, pacing curve.             |
+| [Vishara D.D.S] (https://github.com/VISHARADDS)    | IT21822544 | Object and Environment Identification                | Tracks the user’s speaking rate , pauses and breathing, pacing curve.             |
 | Perera M.P.A.M   | IT21808784 | Pace Management                                      | Analyze facial expressions during presentations.                                  |
 
 ## Features
