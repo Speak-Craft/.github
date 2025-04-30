@@ -34,21 +34,21 @@
 
 ## Features
 
-## 1. Facial Expression Analysis:
-- a. Activities: Evaluates expressions like smiling, frowning, or neutral demeanorduring presentations.
-- b. Feedback: Suggests improvements such as “Increase eye contact” or “Smile during key moments” to promote engagement.
+## 1.Facial Expression Analysis:
+- Activities: Evaluates expressions like smiling, frowning, or neutral demeanorduring presentations.
+- Feedback: Suggests improvements such as “Increase eye contact” or “Smile during key moments” to promote engagement.
 
-## 2. Pitch and Tone Modulation Analysis:
-- a. Activities: Analyzes vocal pitch and tone to identify monotony or unclear delivery.
-- b. Feedback: Highlights areas needing more variation and suggests tonal improvements for effective delivery.
+## 2.Pitch and Tone Modulation Analysis:
+- Activities: Analyzes vocal pitch and tone to identify monotony or unclear delivery.
+- Feedback: Highlights areas needing more variation and suggests tonal improvements for effective delivery.
 
-## 3. Filler Words and Time Management:
-- a. Activities: Tracks the user’s speaking rate and provides insights to manage pacing effectively.
-- b. Feedback: Alerts users about slow or fast delivery and provides strategies for balanced pacing.
+## 3.Filler Words and Time Management:
+- Activities: Tracks the user’s speaking rate and provides insights to manage pacing effectively.
+- Feedback: Alerts users about slow or fast delivery and provides strategies for balanced pacing.
 
 ## 4.Pace Management:
-- a. Activities: Tracks the user’s speaking rate, pauses and breathing and provides insights to manage pacing effectively.
-- b. Feedback: Alerts users about slow or fast delivery and provides strategies for balanced pacing.
+- Activities: Tracks the user’s speaking rate, pauses and breathing and provides insights to manage pacing effectively.
+- Feedback: Alerts users about slow or fast delivery and provides strategies for balanced pacing.
 
 
 ## Objectives
