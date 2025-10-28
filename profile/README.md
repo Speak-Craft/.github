@@ -93,7 +93,6 @@ The primary objective of the AI-Powered Virtual Trainer for Presentation Skills 
 - Postman
 - GitHub
 - SonarQube
-- Java CI with Maven
 
 ---
 
