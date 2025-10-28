@@ -72,12 +72,12 @@ The primary objective of the AI-Powered Virtual Trainer for Presentation Skills 
 - **Frontend**: React.js
 - **Backend**: Java
 - **Machine Learning**: Python
-- **Database**: PostgreSQL
+- **Database**: MongoDB
 
 ### Frameworks
 
 - **Frontend**: React.js, Vite, Ant Design
-- **Backend**: Spring Boot
+- **Backend**: Node.js
 
 ### Machine Learning Frameworks
 
