@@ -10,7 +10,7 @@
 
 ## Project & Repositories
 
-- [Project](https://github.com/Speak-Craft)
+- [Website](https://speakraft.github.io/SpeaKraft-Website/)
 - [Model Repository](https://github.com/Speak-Craft/modal)
 - [Backend Repository](https://github.com/Speak-Craft/backend)
 - [Frontend Repository](https://github.com/Speak-Craft/frontend)
